@@ -1,0 +1,18 @@
+# Compiled output and vendor binaries
+*.exe
+*.dll
+*.chm
+gfx_win_*
+
+# Logs and data
+*.log
+*.prev.*
+*.csv
+*.reg
+*.xml
+*result*.txt
+reset_log.txt
+
+# Backups and scratch folders
+task-backups/
+_backup-*/
